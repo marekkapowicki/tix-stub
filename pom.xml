@@ -84,6 +84,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<baseClassForTests>com.ing.mercatus.tixstub.composer.ComposerControllerStub</baseClassForTests>
+					<!--<httpPort>9988</httpPort>-->
 				</configuration>
 			</plugin>
 		</plugins>
